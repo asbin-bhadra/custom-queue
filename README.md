@@ -24,4 +24,4 @@ sbt scalastyleGenerateConfig
 
 ## Check scalastyle for code
 ```
-sbt scalastyle
+sbt scalastyle 
